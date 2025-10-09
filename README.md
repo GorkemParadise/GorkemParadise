@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gorkem Paradise
 
-💻 Yeditepe University 1/4 CSE Student | iOS & Swift | ML & LLM   
+💻 Yeditepe University 1/4 CSE Student
 
 🌱 Works:
 - LLM and ML 
