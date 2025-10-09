@@ -1,8 +1,9 @@
-# 👋 Merhaba, ben Görkem Paradise
+# 👋 Hey, I'm Gorkem Paradise
 
-💻 Yeditepe Bilgisayar Mühendisliği öğrencisi | iOS & Swift | Makine Öğrenmesi & Yapay Zeka  
+💻 Yeditepe University 1/4 CSE Student | iOS & Swift | ML & LLM   
 
-🌱 Çalışmalar:
-- LLM ve ML projeleri
-- Swift ile iOS geliştirme
+🌱 Works:
+- LLM and ML 
+- Swift and iOS mobil app
+- Solving algorithms
 - Pyhton, C, C++, Web Development
