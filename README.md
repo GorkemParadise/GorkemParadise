@@ -4,6 +4,6 @@
 
 🌱 Works:
 - LLM, ML and DL
-- Swift and iOS mobil app
 - Solving algorithms
 - Pyhton, C, C++, Web Development
+- iOS - Web Developing
