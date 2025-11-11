@@ -5,5 +5,5 @@
 🌱 Works:
 - LLM, ML and DL
 - Solving algorithms
-- Pyhton, C, C++, Web Development
+- Pyhton, C, C++
 - iOS - Web Developing
