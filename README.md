@@ -17,11 +17,10 @@
 ### 📊 GitHub Stats
 ![GorkemParadise's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorkemParadise&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GorkemParadise
-&theme=dark
-&hide_border=true
-&border_radius=10
-&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GorkemParadise&theme=dark&hide_border=true&border_radius=10" />
+</p>
+
 
 
 ### 🧠 Most Used Languages
