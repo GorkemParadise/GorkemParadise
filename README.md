@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 ![GorkemParadise's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorkemParadise&show_icons=true&theme=dark&hide_border=true)
 
-## ![GitHub Streak](https://streak-stats.demolab.com?user=GorkemParadise
+![GitHub Streak](https://streak-stats.demolab.com?user=GorkemParadise
 &theme=dark
 &hide_border=true
 &border_radius=10
