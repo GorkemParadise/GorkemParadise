@@ -7,12 +7,21 @@
 - Solving algorithms
 - Pyhton, C, C++
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact)
+## 👋 Hi, I'm Görkem Paradise
 
-<img src="https://skillicons.dev/icons?i=python,swift,java,cpp,js" />
+### 🚀 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css" />
+</p>
 
-![Görkem Paradise's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorkemParadise&show_icons=true&theme=dark)
+### 📊 GitHub Stats
+![GorkemParadise's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorkemParadise&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GorkemParadise&theme=dark)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=GorkemParadise&theme=dark&hide_border=true)
+
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact&theme=dark&hide_border=true)
+
 
 
