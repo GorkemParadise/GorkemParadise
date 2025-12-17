@@ -20,3 +20,4 @@
 
 
 
+[![NEXA](https://capsule-render.vercel.app/api?type=rect&color=1E40AF&height=90&text=Founder%20of%20NEXA%20Community&fontColor=DBEAFE&fontSize=22)](https://nexa-tr.com)
