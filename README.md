@@ -9,6 +9,8 @@
 
 ## 👋 Hi, I'm Görkem Paradise
 
+Founder of https://nexa-tr.com
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GorkemParadise&theme=dark&hide_border=false)<br/>
