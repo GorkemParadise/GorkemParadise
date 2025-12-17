@@ -9,7 +9,9 @@
 
 ## 👋 Hi, I'm Görkem Paradise
 
-[![Founder of NEXA Community](https://capsule-render.vercel.app/api?type=rect&color=0A4DFF&height=180&section=header&text=Founder%20of%20NEXA%20Community&fontColor=ffffff&fontSize=32)](https://nexa-tr.com)
+[![Founder of NEXA Community](https://capsule-render.vercel.app/api?type=rect&color=0A4DFF&height=120&section=header&text=Founder%20of%20NEXA%20Community&fontColor=E6F0FF&fontSize=26&desc=Click%20it&descAlignY=75&descSize=14&descColor=B3D1FF)](https://nexa-tr.com)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
