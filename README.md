@@ -9,7 +9,7 @@
 
 ## 👋 Hi, I'm Görkem Paradise
 
-[![Founder of](https://www.behance.net/search/projects/nexa%20logotype)](https://nexa-tr.com)
+[![Founder](https://img.shields.io/badge/Founder-NEXA-blue?style=for-the-badge)](https://nexa-tr.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
