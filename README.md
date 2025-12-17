@@ -5,11 +5,11 @@
 🌱 Works:
 - LLM, ML and DL
 - Solving algorithms
-- Pyhton, C, C++
+- Pyhton, C, C+
 
 ## 👋 Hi, I'm Görkem Paradise
 
-[![Founder](https://img.shields.io/badge/Founder-of-NEXA-Community-blue?style=for-the-badge)](https://nexa-tr.com)
+[![Founder of NEXA Community](https://via.placeholder.com/700x220/0A4DFF/FFFFFF?text=Founder+of+NEXA+Community)](https://nexa-tr.com)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
