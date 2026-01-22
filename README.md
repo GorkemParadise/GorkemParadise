@@ -14,31 +14,6 @@
 ⚡  **Algorithms & Data Science**  
 🔨 **Backend + AI Developer**
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GorkemParadise&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GorkemParadise&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemParadise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact&langs_count=10&exclude_repo=repo1,repo2)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact&theme=tokyonight)]
-(https://github.com/GorkemParadise?tab=repositories)
-
-
-</div>
 
 ---
 
