@@ -17,6 +17,12 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GorkemParadise&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkemParadise&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
