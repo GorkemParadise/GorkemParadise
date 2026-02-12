@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact&theme=tokyonight&langs_count=8)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkemParadise&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
