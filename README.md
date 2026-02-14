@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Görkem Paradise
+# I'm Görkem Paradise
 
 <div align="center">
   
@@ -6,18 +6,18 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-💻 **Computer Science Engineering Student** @ Yeditepe University (1/4)  
-🏢 **Founder** @ [NEXA Community](https://nexa-tr.com)  
-🤖 **LLM, Machine Learning & Deep Learning**  
-⚡  **Algorithms & Data Science**  
-🔨 **Backend + AI Developer**
+**Computer Science Engineering Student** @ Yeditepe University (1/4)  
+**Founder** @ [NEXA Community](https://nexa-tr.com)  
+**LLM, Machine Learning & Deep Learning**  
+**Algorithms & Data Science**  
+**Backend + AI Developer**
 
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   
